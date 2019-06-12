@@ -1,5 +1,14 @@
 void main(){
-  var name="samuel";
+ varDefine();
+}
+
+void varDefine () {
+  var city = 'ShangHai';
+  print(city);
+}
+
+void sample () {
+ var name="samuel";
   int age = 18;
   //打印 整形转字符串
   print(name+"'s age is:"+age.toString());
@@ -8,6 +17,7 @@ void main(){
   var l1 = [1,2,3];
   print(l1);
 }
+
 
 /*
 ## 变量的声明
