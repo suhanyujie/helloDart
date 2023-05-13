@@ -1,7 +1,14 @@
-name: demo1
+name: helloDart
 version: 0.0.1
 description: A sample command-line application
+
+environment:
+  sdk: ^3.0.0
+
+# Add regular dependencies here.
 dependencies:
+  # path: ^1.8.0
 
 dev_dependencies:
-#  unittest: any
+  lints: ^2.0.0
+  test: ^1.21.0
