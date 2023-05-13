@@ -1,5 +1,4 @@
 .idea
-.vscode
 bin/*.exe
 .dart_tool
 .idea
