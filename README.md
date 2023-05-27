@@ -6,3 +6,4 @@
 ## ref
 * dart official doc http://dart.goodev.org/guides
 * 中文版 https://dart.cn/tutorials/server/cmdline
+* write test https://pub.flutter-io.cn/packages/test#writing-tests
